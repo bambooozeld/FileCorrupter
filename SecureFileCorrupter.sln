@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureFileCorrupter", "SecureFileCorrupter.csproj", "{8A49D2A9-3F7E-4099-AF8B-21BF5F94620E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A49D2A9-3F7E-4099-AF8B-21BF5F94620E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A49D2A9-3F7E-4099-AF8B-21BF5F94620E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A49D2A9-3F7E-4099-AF8B-21BF5F94620E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A49D2A9-3F7E-4099-AF8B-21BF5F94620E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BE1DB76-F395-4E57-8563-7296715A343E}
+	EndGlobalSection
+EndGlobal
