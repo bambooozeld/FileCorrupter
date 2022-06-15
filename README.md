@@ -1,4 +1,4 @@
 # FileCorrupter
-Program to encrypt/corrupt/delete sensetive Files
+Program to encrypt/corrupt/delete sensitive Files
 
 *Work in Progress*
