@@ -143,7 +143,7 @@ namespace SecureFileCorrupter
         
         private void Images(string[] args)
         {
-            mywindow.Icon = new BitmapImage(new Uri(@"C:\myicon.ico"));
+            
         }
     }
 }
